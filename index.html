@@ -1,19 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Studio Ghibli Gallery</title>
+        <title>Studio Ghibli Gallery Login</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         <link rel="stylesheet" href="style.css" />
-        <script src="like_button.js"></script>
+        <style>
+		@font-face {
+			font-family: font;
+			src: url(font.ttf);
+		}
+	header {
+		font-family: font;
+	}
+	body {
+		font-family: font;
+	}
+        </style>
     </head>
     <body>
         <form id="loginForm" action="login.php" method="POST">
-            <legend>Type in the password "Studioghibli" to enter the gallery. </legend>
-            <br/><br/>
-            <input type="text" placeholder="Password" name="password">
-            <button type="submit">Enter</button>
+            <div class="loginForm">
+
+                <legend>Type in the password "Studioghibli" to enter the gallery. </legend>
+
+                <br/><br/>
+
+                <input type="text" placeholder="Password" name="password">
+
+                <button id="btn1" type="submit">Enter</button>
+
+            </div>
         </form>
     </body>
 </html>
