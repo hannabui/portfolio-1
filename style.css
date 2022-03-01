@@ -1,0 +1,191 @@
+html, body {
+    background-color: aliceblue;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: font;
+}
+@font-face {
+    font-family: 'font';
+    src: url(font.ttf)
+}
+header {
+    font-size: 70px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.loginForm {
+    font-size: 70px;
+    text-align: center;
+}
+/*Gallery image styling*/
+img {
+    width: 50%;
+    height: 10%;
+    padding-left: 25%;
+}
+/*BUTTON STYLING*/
+#btn {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn2 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn3 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn4 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn5 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn6 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn7 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn8 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn9 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn10 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn11 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn12 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn13 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn14 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn15 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn16 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn17 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn18 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn19 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+#btn20 {
+    font-family: font;
+    font-style: bold;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 50%;
+}
+
+
